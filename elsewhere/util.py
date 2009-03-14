@@ -59,7 +59,7 @@ NETWORK_URLS = {
     'blip': 'http://%s.blip.tv/',
     'catster':'http://www.catster.com/cats/%s',
     'corkd': 'http://corkd.com/people/%s',
-    'delicious':'http://del.icio.us/%s/',
+    'delicious':'http://delicious.com/%s/',
     'digg':'http://digg.com/users/%s/',
     'djangopeople':'http://djangopeople.net/%s/',
     'dodgeball':'http://www.dodgeball.com/user?uid=%s',
