@@ -4,7 +4,7 @@ NETWORK_IDS = (
     ('blip', 'Blip.tv'),
     ('catster', 'Catster'),
     ('corkd', 'Corkd'),
-    ('delicious', 'del.icio.us'),
+    ('delicious', 'Delicious'),
     ('digg', 'Digg'),
     ('djangopeople', 'Django People'),
     ('dodgeball', 'Dodgeball'),
